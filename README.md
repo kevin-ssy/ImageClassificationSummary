@@ -3,7 +3,7 @@ A summary for state-of-the-art image-classifying methods on CIFAR-10, CIFAR-100 
 
 
 ## CIFAR
----
+
 | Method                | Depth | Params | CIFAR-10 | CIFAR-100 |
 |-----------------------|:-----:|:------:|:--------:|:---------:|
 | Deeply Supervised Net | -     | -      | 7.97%    | 34.57%    |
