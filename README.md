@@ -24,6 +24,7 @@ A summary for state-of-the-art image-classifying methods on CIFAR-10, CIFAR-100 
 | DenseNet-BC (k = 12) [9]  | 100   | 0.8M   | 4.51%    | 22.27%    |
 | DenseNet-BC (k = 24) [9]  | 250   | 15.3M  | 3.62%    | 17.60%    |
 | DenseNet-BC (k = 40) [9]  | 190   | 25.6M  | 3.46%    | 17.18%    |
+| PyramidNet (alpha=200)[10]| 272   | 26.0M  | 3.31%    | 16.35%    |
 
 ## Reference
 
@@ -44,3 +45,5 @@ A summary for state-of-the-art image-classifying methods on CIFAR-10, CIFAR-100 
 [8] Xie, Saining, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He. "Aggregated residual transformations for deep neural networks." In Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on, pp. 5987-5995. IEEE, 2017.
 
 [9] Huang, Gao, Zhuang Liu, Kilian Q. Weinberger, and Laurens van der Maaten. "Densely connected convolutional networks." In Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on, 2017.
+
+[10] Han, Dongyoon, Jiwhan Kim, and Junmo Kim. "Deep pyramidal residual networks." arXiv preprint arXiv:1610.02915 (2016).
